@@ -1,0 +1,12 @@
+---
+title: Welcome to my Website
+date: 2024-01-01
+description: My home on the Internet
+tags:
+---
+
+Hi there, welcome to my home on the Internet.
+
+I hope to use this space to share my thoughts, ideas, and projects.
+
+Thanks for reading.
