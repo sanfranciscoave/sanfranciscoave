@@ -1,5 +1,5 @@
 ---
-title: Welcome to my Website
+title: Welcome to My Website
 date: 2024-01-01
 description: My home on the Internet
 tags:

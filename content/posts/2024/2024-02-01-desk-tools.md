@@ -16,7 +16,7 @@ Below are the tools that live on my desk, my "desk took kit" of sorts. I keep mo
 ![Pens and pencils](/images/2024/2024-02-01-photo1.jpg)
 
   - **Fountain pen**
-    * Kaweco Sport for when I'm feeling extra fancy. I like writing checks with this pen, makes me feel like a boss who signs all the checks.
+    * Kaweco Sport for when I'm feeling fancy. Specifically, signing checks with this pen just hits different. I hope to one day pick up the brass version.
   - **Ball point pen**
     * Parker Jotter for everything else, it's a good pen, I love the *click* on this one.
   - **Mechanical pencil**
@@ -46,11 +46,11 @@ Below are the tools that live on my desk, my "desk took kit" of sorts. I keep mo
   - **Small phillips and flathead screwdrivers**
     * Usually for opening laptops or other small electronics. I like these from Klein, color coded and the tops spin freely.
   - **Watch case back opener**
-    * Opening watch case backs and prying open things
+    * Opening watch case backs and prying other various things open.
   - **Folding knife**
     * Opinel #7, I believe this is the smallest knife they make with the locking collar.
   - **Scissors**
-    *Fiskars orange scissors, great pair of scissors.
+    * Fiskars orange scissors, great pair of scissors.
 
   ![Desk corner](/images/2024/2024-02-01-photo4.jpg)
 

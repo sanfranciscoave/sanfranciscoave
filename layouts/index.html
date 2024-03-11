@@ -15,7 +15,7 @@
 				{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
 				{{ range $paginator.Pages }}
 				<section class="list-item">
-					<h1 class="title"><a href="{{ .RelPermalink }}">{{.Title}}</a> <span style="float:right;"> <time>{{ dateFormat "2006-01-01" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</time></span> </h1>
+					<h3 class="title"><a href="{{ .RelPermalink }}">{{.Title}}</a> {{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }} </h3>
 					{{ template "partials/pagedescription.html" . }}
 				</section>
 				{{ end }}
