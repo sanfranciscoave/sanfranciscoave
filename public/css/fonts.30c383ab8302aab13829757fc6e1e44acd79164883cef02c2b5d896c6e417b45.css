@@ -43,8 +43,8 @@
 @font-face {
   font-display: swap;
   font-family: 'Sorts Mill Goudy';
-  font-style: normal;
-  font-weight: 400;
+  /font-style: normal;
+  font-weight: 300;
   src: url('../fonts/GoudyStM-webfont.eot'); /* IE9 Compat Modes */
   src: local('Sort Mill Goudy'), local('Sort Mill Goudy'),
        url('../fonts/GoudyStM-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
