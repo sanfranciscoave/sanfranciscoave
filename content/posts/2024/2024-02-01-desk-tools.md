@@ -1,5 +1,5 @@
 ---
-title: "My Desk Tool Kit"
+title: "Desk Tools"
 date: "2024-02-01"
 description: "The tools that live on my desk"
 tags: "Tools"
