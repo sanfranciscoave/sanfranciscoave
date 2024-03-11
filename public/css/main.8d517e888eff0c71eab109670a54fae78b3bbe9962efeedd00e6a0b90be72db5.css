@@ -62,21 +62,19 @@ a:hover {
 ul {
   list-style: none;
   padding-left: 2ch;
-  font-size: 20px;
 }
 ul li {
   text-indent: -2ch;
   margin-bottom: 1em;
-  font-size: 20px;
 }
 ul > li::before {
   content: '* ';
   font-weight: bold;
-  font-size: 20px;
 }
 
 /* Images */
 img {
+  border: 3px solid #ececec;
   max-width: 100%;
   border-radius: 15px;
 }
@@ -151,10 +149,10 @@ header {
   line-height: 2.5em;
 }
 
-header .main {
+/*header .main {
   font-size: 1.5rem;
 }
-/*h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 {
   font-size: 1.2rem;
   margin-top: 2em;
 }*/
