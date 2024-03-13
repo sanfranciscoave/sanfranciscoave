@@ -1,9 +1,9 @@
 /* Markdown */
 :root{
---maincolor: goldenrod;
---bordercl:goldenrod;
+--maincolor: green;
+--bordercl:green;
 --callouctcolor:green;
---hovercolor:goldenrod;
+--hovercolor:green;
 --darkMaincolor: #50fa7b;
 }
 
@@ -11,13 +11,9 @@ nav {
   width: 100%;
   padding-left: 10px;
   padding-right: 10px;
-  border-bottom: 5px solid;
+  border-radius: 10px;
+  border: 3px solid;
   border-color: var(--bordercl)
-}
-
-.navlink {
-  border:none;
-  font-weight: bold;
 }
 
 
@@ -30,7 +26,7 @@ html {
 
 }
 body{
-  display: block;
+  /*display: block;*/
   margin: 8px;
 }
 * {
@@ -67,10 +63,9 @@ a {
   padding-left: 3px;
   padding-right: 3px;
 }
-
 a:hover {
     background-color: var(--hovercolor);
-    color:antiquewhite;
+    color:white;
     padding: 3px;
     padding-top: 10px;
     border-radius: 3px;
@@ -81,11 +76,11 @@ ul {
   padding-left: 2ch;
   font-size: 20px;
 }
-
 ul li {
   text-indent: -2ch;
   margin-bottom: 1em;
   font-size: 20px;
+  border-bottom: unset;
 }
 ul > li::before {
   content: '* ';
@@ -98,6 +93,7 @@ ul > li::before {
 /* Home page post list */
 .list-item {
   line-height: 0.75em;
+  text-decoration: none;
 }
 
 .description {
@@ -108,7 +104,7 @@ ul > li::before {
 /* Images */
 img {
   max-width: 100%;
-  border-radius: 5px;
+  border-radius: 15px;
 }
 
 figure {
@@ -219,7 +215,7 @@ footer {
 }
 
 time {
-  color: darkgrey;
+  color: grey;
 }
 
 /* Posts */

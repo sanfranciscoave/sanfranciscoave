@@ -1,9 +1,9 @@
 /* Markdown */
 :root{
---maincolor: goldenrod;
---bordercl:goldenrod;
+--maincolor: green;
+--bordercl:gold;
 --callouctcolor:green;
---hovercolor:goldenrod;
+--hovercolor:green;
 --darkMaincolor: #50fa7b;
 }
 
@@ -11,7 +11,7 @@ nav {
   width: 100%;
   padding-left: 10px;
   padding-right: 10px;
-  border-bottom: 5px solid;
+  border-bottom: 3px solid;
   border-color: var(--bordercl)
 }
 
@@ -30,7 +30,7 @@ html {
 
 }
 body{
-  display: block;
+  /*display: block;*/
   margin: 8px;
 }
 * {
@@ -108,7 +108,7 @@ ul > li::before {
 /* Images */
 img {
   max-width: 100%;
-  border-radius: 5px;
+  border-radius: 15px;
 }
 
 figure {
@@ -219,7 +219,7 @@ footer {
 }
 
 time {
-  color: darkgrey;
+  color: grey;
 }
 
 /* Posts */
