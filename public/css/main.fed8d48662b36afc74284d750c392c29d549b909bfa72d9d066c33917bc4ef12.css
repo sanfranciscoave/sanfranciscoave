@@ -56,7 +56,7 @@ blockquote {
 }
 
 a {
-  border-bottom: 3px solid var(--maincolor);
+  border-bottom: 3px initial var(--maincolor);
   color: inherit;
   text-decoration: none;
   padding-left: 3px;

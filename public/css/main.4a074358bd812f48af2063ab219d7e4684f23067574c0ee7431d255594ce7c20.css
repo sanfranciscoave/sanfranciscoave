@@ -8,20 +8,19 @@
 }
 
 nav {
-  background-color:ivory;
+  background-color: white;
   width: 100%;
-  padding-left: 10px;
-  padding-right: 10px;
-  border-radius: 10px
-}
+  padding-left: 5px;
+  padding-right: 5px;
 
+}
 
 html {
   color: #232333;
   font-family: 'Sorts Mill Goudy';
   font-size: 20px;
   line-height: 1.5em;
-  background-color:antiquewhite;
+  background-color:papayawhip;
 
 }
 body{
