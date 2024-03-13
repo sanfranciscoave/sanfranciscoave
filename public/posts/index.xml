@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Francisco</title>
+    <title>Posts on Francisco Aguilera</title>
     <link>//localhost:1313/posts/</link>
-    <description>Recent content in Posts on Francisco</description>
+    <description>Recent content in Posts on Francisco Aguilera</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My Desk Tool Kit</title>
+      <title>Desk Tools</title>
       <link>//localhost:1313/posts/2024/2024-02-01-desk-tools/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/2024/2024-02-01-desk-tools/</guid>
@@ -17,9 +17,9 @@
     </item>
     <item>
       <title>Welcome to My Website</title>
-      <link>//localhost:1313/posts/2024/2024-01-01-welcome-to-my-website/</link>
+      <link>//localhost:1313/posts/2024/2024-01-01-welcome/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/2024/2024-01-01-welcome-to-my-website/</guid>
+      <guid>//localhost:1313/posts/2024/2024-01-01-welcome/</guid>
       <description>Hi there, welcome to my home on the Internet.&#xA;I hope to use this space to share my thoughts, ideas, and projects.&#xA;Thanks for reading.</description>
     </item>
   </channel>

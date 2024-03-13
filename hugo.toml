@@ -1,4 +1,4 @@
-title = 'Francisco'
+title = 'Francisco Aguilera'
 
 [[module.mounts]]
 source = 'static'
@@ -19,8 +19,8 @@ url = "/posts"
 weight = 2
 
 [[menu.main]]
-name = "About"
-url = "/about"
+name = "Now"
+url = "/Now"
 weight = 3
 
 [[menu.main]]

@@ -6,7 +6,6 @@
 --hovercolor:green;
 --darkMaincolor: #50fa7b;
 }
-
 html {
   color: #232333;
   font-family: 'Sorts Mill Goudy';
@@ -76,7 +75,6 @@ ul > li::before {
   font-weight: bold;
   font-size: 20px;
 }
-
 
 
 /* Home page post list */
@@ -178,7 +176,7 @@ header .main {
 footer {
   display: flex;
   align-items: center;
-  border-top: 5px solid var(--bordercl);
+  border-top: 0.3rem solid var(--bordercl);
   padding: 2rem 0rem;
   margin-top: 2rem;
   border-radius: 1px;

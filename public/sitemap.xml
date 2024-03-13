@@ -3,12 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/2024/2024-02-01-desk-tools/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/now/</loc>
+    <lastmod>2024-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/</loc>
+    <lastmod>2024-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/2024/2024-02-01-desk-tools/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
@@ -17,11 +20,10 @@
     <loc>//localhost:1313/tags/tools/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>//localhost:1313/posts/2024/2024-01-01-welcome/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/2024/2024-01-01-welcome-to-my-website/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/markdown/</loc>
   </url><url>
     <loc>//localhost:1313/categories/</loc>
   </url>

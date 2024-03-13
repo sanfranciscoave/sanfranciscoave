@@ -178,7 +178,7 @@ header .main {
 footer {
   display: flex;
   align-items: center;
-  border-top: 5px solid var(--bordercl);
+  border-top: 3px solid var(--bordercl);
   padding: 2rem 0rem;
   margin-top: 2rem;
   border-radius: 1px;

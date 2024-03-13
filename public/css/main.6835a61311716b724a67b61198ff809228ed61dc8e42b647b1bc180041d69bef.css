@@ -6,7 +6,6 @@
 --hovercolor:green;
 --darkMaincolor: #50fa7b;
 }
-
 html {
   color: #232333;
   font-family: 'Sorts Mill Goudy';
@@ -47,7 +46,7 @@ blockquote {
 }
 
 a {
-  border-bottom: 3px solid var(--maincolor);
+  /*border-bottom: 5px solid var(--maincolor);*/
   color: inherit;
   text-decoration: none;
   padding-left: 3px;
@@ -77,16 +76,10 @@ ul > li::before {
   font-size: 20px;
 }
 
+list-item {
 
+  font-size: 5px
 
-/* Home page post list */
-.list-item {
-  line-height: 0.75em
-}
-
-.description {
-  padding-left: 1em;
-  font-size: 18px
 }
 
 /* Images */
@@ -178,7 +171,7 @@ header .main {
 footer {
   display: flex;
   align-items: center;
-  border-top: 5px solid var(--bordercl);
+  border-top: 0.3rem solid var(--bordercl);
   padding: 2rem 0rem;
   margin-top: 2rem;
   border-radius: 1px;
