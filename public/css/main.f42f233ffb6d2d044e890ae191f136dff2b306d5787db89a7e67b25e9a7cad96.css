@@ -95,6 +95,7 @@ ul > li::before {
 
 h1 {
   font-size: 30px
+
 }
 
 
@@ -227,7 +228,7 @@ time {
 
 /* Posts */
 article .title {
-  margin-bottom: 0.5em;
+  margin-bottom: 1em;
 }
 
 

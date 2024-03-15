@@ -150,7 +150,7 @@ pre {
   background-color: #ececec;
   line-height: 1.4;
   overflow-x: auto;
-  padding: 1em;
+  /*padding: 1em;*/
 }
 
 .highlight pre ::selection {
@@ -227,7 +227,7 @@ time {
 
 /* Posts */
 article .title {
-  margin-bottom: 0.5em;
+  margin-bottom: 1em;
 }
 
 

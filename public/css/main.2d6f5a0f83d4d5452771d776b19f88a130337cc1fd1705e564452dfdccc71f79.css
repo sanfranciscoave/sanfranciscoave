@@ -24,7 +24,7 @@ nav {
 html {
   color: #232333;
   font-family: 'Sorts Mill Goudy';
-  font-size: 20px;
+  /*font-size: 20px;*/
   line-height: 1.5em;
   background-color:white;
 
@@ -93,9 +93,6 @@ ul > li::before {
   font-size: 20px;
 }
 
-h1 {
-  font-size: 30px
-}
 
 
 /* Home page post list */
@@ -227,7 +224,7 @@ time {
 
 /* Posts */
 article .title {
-  margin-bottom: 0.5em;
+  margin-bottom: 1em;
 }
 
 
