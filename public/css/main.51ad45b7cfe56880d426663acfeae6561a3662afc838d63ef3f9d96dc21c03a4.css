@@ -3,7 +3,7 @@
 --maincolor:#fab617;
 --bordercl:#fab617;
 --callouctcolor:#fab617;
---hovercolor:#fab617;
+--hovercolor:#D99A05;
 --darkMaincolor: #50fa7b;
 }
 
@@ -35,7 +35,7 @@ nav {
 }
 
 a {
-  color: #1e73be;
+  color: steelblue;
   text-decoration: none;
   font-weight: bold;
 }

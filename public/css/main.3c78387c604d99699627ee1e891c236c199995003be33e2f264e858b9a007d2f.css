@@ -28,16 +28,15 @@ nav {
 
 .navlink:hover {
     background-color: var(--hovercolor);
-    color:#232333;
+    color:white;
     padding: 3px;
     padding-top: 10px;
     border-radius: 3px;
 }
 
 a {
-  color: #1e73be;
+  color: crimson;
   text-decoration: none;
-  font-weight: bold;
 }
 
 a:hover {
@@ -47,6 +46,13 @@ a:hover {
 
 .tags li::before{
   content: "* ";
+}
+.tags a{
+  /*border-bottom: 3px solid var(--maincolor);*/
+}
+.tags a:hover{
+  color:white;
+  background-color: var(--hovercolor);
 }
 
 /********** Common **********/

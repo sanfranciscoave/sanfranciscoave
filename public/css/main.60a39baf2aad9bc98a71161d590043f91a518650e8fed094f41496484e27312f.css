@@ -1,4 +1,4 @@
-/********** Markdown */
+/* Markdown */
 :root{
 --maincolor:#fab617;
 --bordercl:#fab617;
@@ -6,8 +6,6 @@
 --hovercolor:#fab617;
 --darkMaincolor: #50fa7b;
 }
-
-/********** navigaion and links **********/
 
 nav {
   width: 100%;
@@ -23,33 +21,8 @@ nav {
   text-decoration: none;
   padding-left: 3px;
   padding-right: 3px;
-  color: #232333;
 }
 
-.navlink:hover {
-    background-color: var(--hovercolor);
-    color:#232333;
-    padding: 3px;
-    padding-top: 10px;
-    border-radius: 3px;
-}
-
-a {
-  color: #1e73be;
-  text-decoration: none;
-  font-weight: bold;
-}
-
-a:hover {
-  border-bottom: 5px solid;
-  border-color: var(--bordercl)
-}
-
-.tags li::before{
-  content: "* ";
-}
-
-/********** Common **********/
 
 html {
   color: #232333;
@@ -57,25 +30,12 @@ html {
   font-size: 20px;
   line-height: 1.5em;
   background-color:white;
-}
 
-.title h1 {
-  margin-bottom: 0;
 }
-
-h1 {
-  font-size: 30px
-}
-
-time {
-  color: darkgrey;
-}
-
 body{
   display: block;
   margin: 8px;
 }
-
 * {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
@@ -103,6 +63,26 @@ blockquote {
   padding-left: 1em;
 }
 
+a {
+  /*border-bottom: 3px solid var(--maincolor);
+  color: inherit;
+  text-decoration: none;
+  padding-left: 3px;
+  padding-right: 3px;*/
+}
+
+a:hover {
+    background-color: var(--hovercolor);
+    color:white;
+    padding: 3px;
+    padding-top: 10px;
+    border-radius: 3px;
+}
+
+a:visited {
+  color: inherit;
+}
+
 ul {
   list-style: none;
   padding-left: 2ch;
@@ -120,7 +100,12 @@ ul > li::before {
   font-size: 20px;
 }
 
-/********** Home page post list **********/
+h1 {
+  font-size: 30px
+}
+
+
+/* Home page post list */
 .list-item {
   line-height: 0.75em;
 }
@@ -130,7 +115,7 @@ ul > li::before {
   font-size: 18px;
 }
 
-/********** Images **********/
+/* Images */
 img {
   max-width: 100%;
 }
@@ -161,7 +146,7 @@ figure h4::before {
   content: '↳ ';
 }
 
-/********** Code blocks **********/
+/* Code blocks */
 code {
   background-color: #f1f1f1;
   padding: .1em .2em;
@@ -186,7 +171,7 @@ pre code {
   padding: 0;
 }
 
-/********** Containers **********/
+/* Containers */
 .content {
   margin-bottom: 4em;
   margin-left: auto;
@@ -196,7 +181,7 @@ pre code {
   word-wrap: break-word;
 }
 
-/********** Header **********/
+/* Header */
 header {
   display: flex;
   flex-wrap: wrap;
@@ -214,7 +199,7 @@ header .main {
   letter-spacing: -0.5px;
 }
 
-/********** Footer **********/
+/* Footer */
 footer {
   display: flex;
   align-items: center;
@@ -237,12 +222,22 @@ footer {
   padding: var(--footer-padding);
 }
 
-/********** Posts **********/
+/* Common */
+.title h1 {
+  margin-bottom: 0;
+}
+
+time {
+  color: darkgrey;
+}
+
+/* Posts */
 article .title {
   margin-bottom: 0.5em;
 }
 
-/********** Callout **********/
+
+/* Callout */
 .callout {
   background-color: var(--callouctcolor);
   color: #fff;
@@ -267,7 +262,16 @@ article .title {
 display: flex;
 justify-content: space-between;
 }
-
+.tags li::before{
+  content: "🏷 ";
+}
+.tags a{
+  /*border-bottom: 3px solid var(--maincolor);*/
+}
+.tags a:hover{
+  color:white;
+  background-color: var(--hovercolor);
+}
 svg{
   max-height: 15px;
 }
@@ -287,7 +291,7 @@ svg{
   -webkit-overflow-scrolling: touch;
 }
 
-/********** table **********/
+/* table */
 table {
   border-spacing: 0;
   border-collapse: collapse;
