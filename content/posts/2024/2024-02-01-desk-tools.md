@@ -14,7 +14,7 @@ Below are the tools that live on my desk, my "desk took kit" of sorts. I keep mo
 
 ## 1. Writing Instruments
 
-![Pens and pencils](/images/2024/my-desk-1.jpg)
+![Pens and pencils](/images/2024/desk-tools-1.jpg)
 
   - **Fountain pen**
     * Kaweco Sport for when I'm feeling fancy. Specifically, signing checks with this pen just hits different. I hope to one day pick up the brass version.
@@ -31,7 +31,7 @@ Below are the tools that live on my desk, my "desk took kit" of sorts. I keep mo
 
 ## 2. Measuring & Calculation Instruments
 
-![Calculator and rulers](/images/2024/my-desk-2.jpg)
+![Calculator and rulers](/images/2024/desk-tools-2.jpg)
 
   - **Calculator**
     * I find it much easier to just pull this thing out rather than pulling out my phone and digging through my app library just to find the calculator.
@@ -42,7 +42,7 @@ Below are the tools that live on my desk, my "desk took kit" of sorts. I keep mo
 
 ## 3. Cutting & Opening Instruments
 
-![Tools](/images/2024/my-desk-3.jpg)
+![Tools](/images/2024/desk-tools-3.jpg)
 
   - **Small phillips and flathead screwdrivers**
     * Usually for opening laptops or other small electronics. I like these from Klein, color coded and the tops spin freely.
@@ -53,7 +53,7 @@ Below are the tools that live on my desk, my "desk took kit" of sorts. I keep mo
   - **Scissors**
     * Fiskars orange scissors, great pair of scissors.
 
-  ![Desk corner](/images/2024/my-desk-4.jpg)
+  ![Desk corner](/images/2024/desk-tools-4.jpg)
 
 
 Thanks for reading.
