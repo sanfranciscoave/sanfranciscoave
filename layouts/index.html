@@ -5,13 +5,18 @@
 		<div class="content">
 			{{ partial "head.html" . }}
 			<h4>Hi, I'm Francisco. I created this site to share my thoughts, ideas, experiences, and projects. Thanks for reading.</h4>
+			<h3>Recent Posts:</h3>
 			<main class="list">
-				<div class="site-description">
-					<h3>Recent Posts:</h3>
+
+				<!-- removed site description -->
+
+				<!--<div class="site-description">
 					{{- if isset .Site.Params "subtitle" -}}
 					<p>{{ .Site.Params.Subtitle | markdownify }}</p>
 					{{- end -}}
-				</div>
+				</div>-->
+
+
 				{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
 				{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
 				{{ range $paginator.Pages }}

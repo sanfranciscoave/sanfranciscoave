@@ -2,7 +2,7 @@
 title: "Desk Tools"
 date: "2024-02-01"
 description: "The tools that live on my desk"
-tags: "Tools"
+tags: "tools"
 draft: False
 ---
 
