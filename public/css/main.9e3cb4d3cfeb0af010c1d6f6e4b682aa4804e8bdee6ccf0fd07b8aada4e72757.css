@@ -123,6 +123,7 @@ ul > li::before {
 /********** Home page post list **********/
 .list-item {
   line-height: 0.75em;
+  font-family: 'IBM Plex Mono';
 }
 
 .description {
@@ -202,7 +203,7 @@ header {
   flex-wrap: wrap;
   justify-content: space-between;
   margin: 1em 0;
-  line-height: 2.0em;
+  line-height: 2.5em;
 }
 
 header .main {

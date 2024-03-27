@@ -127,7 +127,8 @@ ul > li::before {
 
 .description {
   padding-left: 1em;
-  font-size: 18px;
+  font-size: 12px;
+  font-family: 'IBM Plex Mono';
 }
 
 /********** Images **********/
@@ -202,7 +203,7 @@ header {
   flex-wrap: wrap;
   justify-content: space-between;
   margin: 1em 0;
-  line-height: 2.0em;
+  line-height: 2.5em;
 }
 
 header .main {
