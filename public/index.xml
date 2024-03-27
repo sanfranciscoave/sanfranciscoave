@@ -48,7 +48,7 @@
       <link>//localhost:1313/markdown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/markdown/</guid>
-      <description>Markdown Syntax Heading&#xA;H1 H2 H3 Bold bold text&#xA;Italic italicized text&#xA;Blockquote &amp;gt; blockquote&#xA;Ordered List&#xA;First item Second item Third item Unordered List&#xA;First item Second item Third item Code code&#xA;Horizontal Rule &amp;mdash;&#xA;Link title&#xA;Image </description>
+      <description>Markdown Syntax Heading&#xA;H1 H2 H3 Italic italicized text&#xA;Blockquote &amp;gt; blockquote&#xA;Ordered List&#xA;First item Second item Third item Unordered List&#xA;First item Second item Third item Code code&#xA;Horizontal Rule &amp;mdash;&#xA;Link title&#xA;Image </description>
     </item>
   </channel>
 </rss>

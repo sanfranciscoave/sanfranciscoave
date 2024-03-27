@@ -108,7 +108,6 @@ ul {
   list-style: none;
   padding-left: 2ch;
   font-size: 20px;
-  font-weight: 400;
 }
 
 ul li {
@@ -119,7 +118,7 @@ ul li {
 }
 ul > li::before {
   content: '* ';
-  font-weight: bold;
+  font-weight: bolder;
   font-size: 20px;
 }
 
