@@ -6,8 +6,15 @@
     <description>Recent content on Francisco</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solar Eclipse </title>
+      <link>//localhost:1313/posts/2024/2024-04-09-solar-eclipse/</link>
+      <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/2024/2024-04-09-solar-eclipse/</guid>
+      <description>I got to watch the solar eclipse yesterday and managed to capture a nice photo. I&amp;rsquo;m living in California, so we didn&amp;rsquo;t see much in terms of darkness, but the outline of the moon was certainly there.&#xA;To get the exposure right, I had to stack all the ND filters I own in front of my camera lens, 8 in total. I held the mismatched stack of filters with my left hand while trying to hold my camera steady in my right.</description>
+    </item>
     <item>
       <title>About</title>
       <link>//localhost:1313/about/</link>
