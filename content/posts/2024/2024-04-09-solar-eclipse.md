@@ -1,5 +1,5 @@
 ---
-title: "Solar Eclipse "
+title: "Solar Eclipse"
 date: "2024-04-09"
 description: "Photographing the solar eclipse"
 tags: "photography"
