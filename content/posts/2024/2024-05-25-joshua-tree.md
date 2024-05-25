@@ -5,6 +5,7 @@ description: "Some photos from my trip to the desert"
 tags: "photography"
 draft: false
 ---
+Some photos from my trip to the desert, all shot on the Ricoh GR (original 2013 model).
 
 Quite the magical place if you ask me...
 
