@@ -12,6 +12,6 @@ To get the exposure right, I had to stack all the ND filters I own in front of m
 
 Taken on my Pentax Q7.
 
- ![Solar eclipse](/images/2024/solar-eclipse.jpg)
+ ![solar eclipse](/images/2024/solar-eclipse.jpg)
 
 Thanks for reading.

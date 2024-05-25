@@ -6,10 +6,24 @@ tags: "photography"
 draft: false
 ---
 
-I never imagined the desert could be quite so beautiful...
+Quite the magical place if you ask me...
 
-![Desert photo](/images/2024/desert-1.jpg)
+![desert photo](/images/2024/desert-1.jpg)
 
-![Desert photo](/images/2024/desert-2.jpg)
+![desert photo](/images/2024/desert-2.jpg)
 
-![Desert photo](/images/2024/desert-3.jpg)
+![desert photo](/images/2024/desert-3.jpg)
+
+![desert photo](/images/2024/desert-4.jpg)
+
+![desert photo](/images/2024/desert-5.jpg)
+
+![desert photo](/images/2024/desert-6.jpg)
+
+![desert photo](/images/2024/desert-7.jpg)
+
+![desert photo](/images/2024/desert-8.jpg)
+
+![desert photo](/images/2024/desert-9.jpg)
+
+Thanks for reading.

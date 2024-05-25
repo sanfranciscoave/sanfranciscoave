@@ -10,6 +10,6 @@ GIMP is a free open source alternative to photoshop and so far, I'm really likin
 
 The first image I processed using GIMP, taken on my Pentax Q7.
 
- ![Flowers](/images/2024/gimp.jpg)
+ ![flowers](/images/2024/gimp.jpg)
 
 Thanks for reading.
