@@ -1,5 +1,0 @@
-baseURL = 'https://sanfranciscoave.com/'
-languageCode = 'en-us'
-
-[params.meta]
-favicon = false

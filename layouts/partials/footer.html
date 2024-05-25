@@ -10,9 +10,6 @@
       - Francisco Aguilera
   </div>
 </footer>
-{{ if not .Site.IsServer }}
-{{ template "_internal/google_analytics_async.html" . }}
-{{ end }}
 
 {{- if (isset .Site.Params "social") -}}
 <script>

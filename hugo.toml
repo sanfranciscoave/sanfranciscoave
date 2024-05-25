@@ -1,12 +1,6 @@
+baseURL = 'https://sanfranciscoave.com/'
+languageCode = 'en-us'
 title = 'Francisco'
-
-[[module.mounts]]
-source = 'static'
-target = 'static'
-
-[[module.mounts]]
-source = 'images'
-target = 'static/images'
 
 [[menu.main]]
 name = "Home"
