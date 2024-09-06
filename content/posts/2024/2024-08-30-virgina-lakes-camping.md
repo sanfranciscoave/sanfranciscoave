@@ -6,7 +6,7 @@ tags: "photography"
 draft: false
 ---
 
-Some photos from a camping trip with friends trip to the Virgina Lakes, although most of these shots are from near by Mono Lake. 
+Some photos from a camping trip with friends to the Virgina Lakes, although most of these shots are from near by Mono Lake. 
 
 All shot on the Canon SD1000.
 
