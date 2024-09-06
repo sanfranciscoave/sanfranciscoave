@@ -10,7 +10,7 @@ I like the idea of having tool kits for everything.
 
 A tool kit for your car, a tool kit for your bike, a tool kit for your home, you get the idea.
 
-Below are the tools that live on my desk, my "desk took kit" of sorts. I keep most of them in a glass mason jar on the left side of my desk, next to my lamp. I would say each item falls into 1 of 3 categories:
+Below are the tools that live on my desk, my "desk took kit" of sorts. I keep most of them in a glass mason jar on the left side of my desk, next to my lamp. I would say each item falls into one of three categories:
 
 ## 1. Writing Instruments
 
@@ -36,7 +36,7 @@ Below are the tools that live on my desk, my "desk took kit" of sorts. I keep mo
   - **Calculator**
     * I find it much easier to just pull this thing out rather than pulling out my phone and digging through my app library just to find the calculator.
   - **Rulers**
-    * I like having 2 of these, 1 steel ruler for cutting along side with a knife and 1 wooden ruler for everything else.
+    * I like having two of these, one steel ruler for cutting along side with a knife and one wooden ruler for everything else.
   - **Calipers**
     * I like these plastic calipers for my desk, I don't have a need to measure tight tolerances here and it's nice not having to worry about scratching the thing I'm measuring.
 

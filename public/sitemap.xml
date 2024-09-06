@@ -3,18 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2024/2024-05-25-joshua-tree/</loc>
-    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/now/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2024/2024-07-01-panasonic-dmc-lc1/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/photography/</loc>
-    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2024/2024-05-25-joshua-tree/</loc>
     <lastmod>2024-05-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2024/2024-04-22-learning-gimp/</loc>
@@ -24,9 +30,6 @@
     <lastmod>2024-04-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
-    <lastmod>2024-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/now/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2024/2024-02-01-desk-tools/</loc>
