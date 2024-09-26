@@ -12,7 +12,7 @@ A tool kit for your car, a tool kit for your bike, a tool kit for your home, you
 
 Below are the tools that live on my desk, my "desk took kit" of sorts. I keep most of them in a glass mason jar on the left side of my desk, next to my lamp. I would say each item falls into one of three categories:
 
-## 1. Writing Instruments
+## 1. Writing
 
 ![pens and pencils](/images/2024/desk-tools-1.jpg)
 
@@ -21,7 +21,7 @@ Below are the tools that live on my desk, my "desk took kit" of sorts. I keep mo
   - **Ball point pen**
     * Parker Jotter for everything else, it's a good pen, I love the *click* on this one.
   - **Mechanical pencil**
-    * Pentel Graphgear 1000, I've had this particular one ever since I took a drafting class in College.
+    * Pentel Graphgear 1000, I've had this particular one ever since I took a drafting class in college.
   - **Wood pencil**
     * Sometimes, you gotta go old school.
   - **Eraser**
@@ -29,7 +29,7 @@ Below are the tools that live on my desk, my "desk took kit" of sorts. I keep mo
   - **Sharpie**
     * Mostly for labeling stuff.
 
-## 2. Measuring & Calculation Instruments
+## 2. Measuring & Calculation
 
 ![calculator and rulers](/images/2024/desk-tools-2.jpg)
 
@@ -40,7 +40,7 @@ Below are the tools that live on my desk, my "desk took kit" of sorts. I keep mo
   - **Calipers**
     * I like these plastic calipers for my desk, I don't have a need to measure tight tolerances here and it's nice not having to worry about scratching the thing I'm measuring.
 
-## 3. Cutting & Opening Instruments
+## 3. Cutting & Opening
 
 ![tools](/images/2024/desk-tools-3.jpg)
 
