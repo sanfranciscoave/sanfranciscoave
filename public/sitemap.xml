@@ -3,7 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-08-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/now/</loc>
+    <lastmod>2024-09-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/photography/</loc>
     <lastmod>2024-08-28T00:00:00+00:00</lastmod>
@@ -16,9 +19,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/2024/2024-08-30-virgina-lakes-camping/</loc>
     <lastmod>2024-08-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/now/</loc>
-    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2024/2024-05-25-joshua-tree/</loc>
     <lastmod>2024-05-25T00:00:00+00:00</lastmod>
