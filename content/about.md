@@ -7,4 +7,4 @@ Hi, I'm Francisco.
 
 I'm interested in making things, technology, photography, and personal finance.
 
-![francisco](/images/home/francisco.jpg)
+![francisco](/francisco.jpg)
