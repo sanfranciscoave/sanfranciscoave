@@ -135,12 +135,8 @@ ul > li::before {
   font-style: normal;
   font-weight: 600;
   font-family: 'Spectral';
-  line-height: 25px;
+  line-height: 2em;
 }
-
-/********** All Posts page post list **********/
-
-
 
 /********** Images **********/
 img {

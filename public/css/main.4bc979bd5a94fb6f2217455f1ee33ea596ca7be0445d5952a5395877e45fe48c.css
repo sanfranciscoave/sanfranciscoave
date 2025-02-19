@@ -140,7 +140,9 @@ ul > li::before {
 
 /********** All Posts page post list **********/
 
-
+.posts{
+  Line-height:50px;
+}
 
 /********** Images **********/
 img {
