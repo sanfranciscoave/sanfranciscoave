@@ -26,6 +26,6 @@ Quite the magical place if you ask me...
 
 ![desert photo](/posts/2024/2024-05-25-joshua-tree/desert-8.jpg)
 
-![desert photo](/iposts/2024/2024-05-25-joshua-tree/desert-9.jpg)
+![desert photo](/posts/2024/2024-05-25-joshua-tree/desert-9.jpg)
 
 Thanks for reading.
