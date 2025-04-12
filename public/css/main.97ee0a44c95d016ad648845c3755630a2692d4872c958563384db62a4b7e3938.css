@@ -126,7 +126,7 @@ ul > li::before {
 
 /********** Home page post list **********/
 .list-item {
-  line-height: 1.5em;
+  line-height: 1em;
 }
 
 .description {
@@ -135,7 +135,7 @@ ul > li::before {
   font-style: normal;
   font-weight: 600;
   font-family: 'Spectral';
-  line-height: 20px;
+  line-height: 25px;
 }
 
 /********** All Posts page post list **********/
