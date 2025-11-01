@@ -1,10 +1,11 @@
 ---
 title: 'Now'
-date: 2024-09-25
+date: 2025-07-25
 ---
 
 What I'm up to:
-- Experimenting with with the Leica M8 and M9
+- Taking a pottery class
+- Learning to climb 
 - Working as a Data Analyst
 
 This is my [now](https://nownownow.com/about) page, inspired by Derek Sivers.
